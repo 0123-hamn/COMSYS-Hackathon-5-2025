@@ -1,4 +1,5 @@
 # Gender Recognition System with Webcam
+# By - Dhrubojyoti Chowdhury , Hemanta Ghosh & Iman Chandra From Narula Institute of Technology
 
 This project implements a real-time gender recognition system using deep learning and computer vision. The system can detect faces from a webcam feed and classify them as male or female.
 
